@@ -1,2 +1,2 @@
 from colorama import Fore
-print(Fore.RED + 'ERROR!')
+print(Fore.RED + 'ERROR! Here')
