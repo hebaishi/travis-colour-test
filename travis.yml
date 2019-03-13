@@ -1,0 +1,6 @@
+language: cpp
+os:
+  - linux
+script:
+- sudo pip install colorama
+- python colour_test.py
