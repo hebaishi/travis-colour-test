@@ -5,3 +5,4 @@ script:
 - sudo pip install colorama conan==1.11.2
 - python colour_test.py
 - python colour_test2.py
+- conan create . user/channel
