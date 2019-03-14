@@ -4,3 +4,4 @@ os:
 script:
 - sudo pip install colorama
 - python colour_test.py
+- python colour_test2.py
